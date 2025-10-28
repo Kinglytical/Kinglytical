@@ -16,7 +16,7 @@
 - 🔭 Currently working on improving my **Next.js + TailwindCSS** skills  
 - 🌱 Learning **TypeScript**, **API integration**, and **animation frameworks**  
 - ⚙️ I love making **responsive, smooth, and scalable** web apps  
-- 📫 Reach me at: **saddam.rafiansyach@gmail.com**  
+- 📫 Reach me at: **saddamgans18@gmail.com**  
 - ⚡ Fun fact: I enjoy mixing logic and design — it’s my kind of art 🎨  
 
 ---
@@ -62,7 +62,7 @@
   <a href="https://github.com/Kinglytical" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:saddam.rafiansyach@gmail.com">
+  <a href="mailto:saddamgans18@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
