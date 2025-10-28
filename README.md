@@ -45,10 +45,10 @@
 
 ---
 
-### 🕹️ Animated Contribution Snake
+### 3D GitHub Stats Card
 
 <p align="center">
-  <img src="https://github.com/Kinglytical/Kinglytical/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinglytical&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
 
 ---
