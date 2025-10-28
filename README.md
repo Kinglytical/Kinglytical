@@ -23,5 +23,5 @@
 ---
 
 ### 🌐 Find Me On
-- Portfolio: [coming soon 🚧]
+- Portfolio: [https://portofolio-v1-production.up.railway.app/ 🚧]
 - LinkedIn: [linkedin.com/in/saddamrafiansyach](#)
