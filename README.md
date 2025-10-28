@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🚀 About Me<br><br>- 💡 Passionate about creating **clean and modern UI/UX** experiences  <br>- 🔭 Currently working on improving my **Next.js + TailwindCSS** skills  <br>- 🌱 Learning **TypeScript**, **API integration**, and **animation frameworks**  <br>- ⚙️ I love making **responsive, smooth, and scalable** web apps  <br>- 📫 Reach me at: **saddamgans18@gmail.com**  <br>- ⚡ Fun fact: I enjoy mixing logic and design — it’s my kind of art 🎨  <br><br>---<br>
+💡 Passionate about creating **clean and modern UI/UX** experiences  <br>🔭 Currently working on improving my **Next.js + TailwindCSS** skills  <br>🌱 Learning **TypeScript**, **API integration**, and **animation frameworks**  <br>⚙️ I love making **responsive, smooth, and scalable** web apps  <br>📫 Reach me at: **saddamgans18@gmail.com**  <br>⚡ Fun fact: I enjoy mixing logic and design — it’s my kind of art 🎨 <br>
 
 
 ## 🌐 Socials:
