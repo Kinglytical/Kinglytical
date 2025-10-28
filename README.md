@@ -1,6 +1,16 @@
 # 💫 About Me:
 💡 Passionate about creating **clean and modern UI/UX** experiences  <br>🔭 Currently working on improving my **Next.js + TailwindCSS** skills  <br>🌱 Learning **TypeScript**, **API integration**, and **animation frameworks**  <br>⚙️ I love making **responsive, smooth, and scalable** web apps  <br>📫 Reach me at: **saddamgans18@gmail.com**  <br>⚡ Fun fact: I enjoy mixing logic and design — it’s my kind of art 🎨 <br>
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kinglytical/Kinglytical/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kinglytical/Kinglytical/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kinglytical/Kinglytical/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saddam-rafiansyach) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@FunCode) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodeSpark) 
@@ -24,4 +34,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Kinglytical&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎆 3D Profile Card
+![3D Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kinglytical&theme=tokyonight)
+
