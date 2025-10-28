@@ -1,79 +1,27 @@
-<!-- PROFILE README FOR KINGLYTICAL -->
+# 💫 About Me:
+### 🚀 About Me<br><br>- 💡 Passionate about creating **clean and modern UI/UX** experiences  <br>- 🔭 Currently working on improving my **Next.js + TailwindCSS** skills  <br>- 🌱 Learning **TypeScript**, **API integration**, and **animation frameworks**  <br>- ⚙️ I love making **responsive, smooth, and scalable** web apps  <br>- 📫 Reach me at: **saddamgans18@gmail.com**  <br>- ⚡ Fun fact: I enjoy mixing logic and design — it’s my kind of art 🎨  <br><br>---<br>
 
-<p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" width="600"/>
-</p>
 
-<h1 align="center">👋 Hi, I'm Saddam Rafiansyach</h1>
-<h3 align="center">Frontend Developer | Next.js • React • TailwindCSS Enthusiast</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saddam-rafiansyach) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@FunCode) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodeSpark) 
 
-<p align="center">
-  <a href="https://github.com/Kinglytical">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=3AA0FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Frontend+Developer;Next.js+%7C+React+%7C+Tailwind+Lover;Turning+ideas+into+interactive+UI's" alt="Typing SVG" />
-  </a>
-</p>
+# 💻 Tech Stack:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kinglytical&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kinglytical&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinglytical&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kinglytical&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🚀 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💡 Passionate about creating **clean and modern UI/UX** experiences  
-- 🔭 Currently working on improving my **Next.js + TailwindCSS** skills  
-- 🌱 Learning **TypeScript**, **API integration**, and **animation frameworks**  
-- ⚙️ I love making **responsive, smooth, and scalable** web apps  
-- 📫 Reach me at: **saddamgans18@gmail.com**  
-- ⚡ Fun fact: I enjoy mixing logic and design — it’s my kind of art 🎨  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kinglytical&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Kinglytical&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinglytical&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinglytical&layout=compact&theme=radical" height="180px"/>
-</p>
-
----
-
-### 3D GitHub Stats Card
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinglytical&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-### 🧩 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/saddam-rafiansyach" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Kinglytical" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:saddamgans18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kinglytical&label=Profile%20views&color=0e75b6&style=flat" alt="Kinglytical" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
