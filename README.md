@@ -37,3 +37,6 @@
 ### 🎆 3D Profile Card
 ![3D Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kinglytical&theme=tokyonight)
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kinglytical.Kinglytical&"  />
+</div>
