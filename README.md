@@ -1,4 +1,9 @@
 <!-- PROFILE README FOR KINGLYTICAL -->
+
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif" width="600"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Saddam Rafiansyach</h1>
 <h3 align="center">Frontend Developer | Next.js • React • TailwindCSS Enthusiast</h3>
 
