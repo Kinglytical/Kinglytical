@@ -20,6 +20,47 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/Kinglytical/quad">quad-tracker</a></h3>
+      <p><i>Internal ops tool that replaced manual invoice data-entry with automated extraction.</i></p>
+      <ul>
+        <li>🧾 Upload an invoice PDF/image → OCR pipeline (PDF-to-image render + Tesseract) auto-extracts every line item</li>
+        <li>📋 Extracted rows flow into a review UI before confirming into the product/package catalog</li>
+        <li>🔐 Full request-access auth flow so only approved accounts get in</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Tesseract_OCR-38B2AC?style=flat-square" />
+      </p>
+      <a href="https://github.com/Kinglytical/quad"><img src="https://img.shields.io/badge/View_Repo-→-38B2AC?style=for-the-badge" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐾 <a href="https://github.com/Kinglytical/snifffbowl">snifffbowl</a></h3>
+      <p><i>Pet food e-commerce site that turns "how much should I feed my dog?" into an instant, personalized quote.</i></p>
+      <ul>
+        <li>🧮 6-question calculator maps a dog's profile to 1 of 12 weight tiers</li>
+        <li>💰 Tiered pricing engine returns the right gram/day plan and package price instantly — no manual WhatsApp quoting</li>
+        <li>🛍️ Built-in product & package management for the store side</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square" />
+      </p>
+      <a href="https://github.com/Kinglytical/snifffbowl"><img src="https://img.shields.io/badge/View_Repo-→-38B2AC?style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Skills
 
 **Development**
@@ -61,30 +102,16 @@ Technical SEO (site speed, schema markup, sitemap/robots.txt) · On-page optimiz
 
 ---
 
-### 🚀 Featured Projects
+### 🤖 AI-Augmented Workflow
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kinglytical/quad">quad-tracker</a></h4>
-      Internal ops app: request-access auth flow, invoice upload with OCR-based line-item extraction (Tesseract + PDF rendering), and product/package tracking.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
-      <img src="https://img.shields.io/badge/-OCR-38B2AC?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Kinglytical/snifffbowl">snifffbowl</a></h4>
-      Pet food e-commerce site for Snifff — a 6-question calculator that turns a dog's profile into a personalized feeding plan and package price, backed by tiered pricing logic.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" />
+</p>
+
+- 🧠 I pair with **Claude** on real feature work, not just autocomplete — full builds like the OCR invoice pipeline in `quad-tracker`, Prisma migrations, and CI/git troubleshooting
+- 🗂️ **Obsidian** vault wired up as a persistent second brain for it — a custom AI persona with its own skills/context notes, so every session picks up where the last one left off instead of starting from zero
+- 📝 Non-trivial builds get a written log (deep-dives, decisions, gotchas) — so I'm not re-debugging the same thing twice, and neither is the AI
 
 ---
 
@@ -126,32 +153,16 @@ Technical SEO (site speed, schema markup, sitemap/robots.txt) · On-page optimiz
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Streak Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kinglytical&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinglytical&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Kinglytical&theme=dark&hide_border=true" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kinglytical&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ### ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-### 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kinglytical&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ### 🎆 3D Profile Card
